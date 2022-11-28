@@ -1,1 +1,1 @@
-succeed result,but not good enough
+succeed result,but not enough good
