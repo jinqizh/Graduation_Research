@@ -2,7 +2,9 @@
  
  Abstract: This study used hard voting method of ensemble to detect disease of retina.
  
- Method: Used Google Colaboratory (Python 3.7.13, Tensorflow 2.8.2)
+ Environment: Used Google Colaboratory (Python 3.7.13, Tensorflow 2.8.2)
+ 
+ Method: To Be Coutinue.
  
  Result: To Be Coutinue.
 ____
